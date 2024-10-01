@@ -1,22 +1,11 @@
-分享加密相关的内容
+Share text encryption related content
 
-XText：文字历史上的又一次创新
-人类即将进入密文时代： 从摩斯密码，到加密 IM 软件，到加密货币， AI 的到来，将促使加密文本应用在日常生活中
-AI 时代之后，人类就会进入到密文时代，才能防止 AI 强化，征服人类。
-如果有平台不允许你使用密文，那么这个平台想分析的内容，及侵犯你的隐私。
-有了 XText，这个世界会更精细！
+Let every mobile phone have advanced text encryption capabilities.
 
+If a platform does not allow you to use ciphertext, then the platform wants to analyze the content and violate your privacy.
 
-让每个手机都具有文本高级加密能力。
-人人必备的密文 App
+XText: A must-have ciphertext app for everyone
 
 
-密文：将会为人类文字史开启新纪元！
-每个人都可以写一个家传祖训，然后一代一代继承下去：只要不知道密钥，那么别人就很难知道
-这个世界将会被大量的密文充满！
+One day AI will erode everything we have. I hope XText will be our last line of defense!
 
-
-总有一天 AI 会侵蚀我们所有，希望 XText 成为我们最后的防线！
-一起守住 AI 侵蚀的防线！
-
-123
