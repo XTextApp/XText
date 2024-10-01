@@ -1,1 +1,9 @@
+XText is a safe and easy-to-use text encryption assistant. It is repackaged based on AES encryption technology, making it extremely difficult to crack ciphertext; making it impossible for AI and humans to recognize your text content.
 
+[Function Highlights]
+1. Real-time encryption: Each letter entered will be encrypted synchronously
+2. No need to log in: anonymous use
+3. Automatic ciphertext recognition: Not all ciphertext is XText
+4. Client-to-client key encryption: Only you and the other party can decrypt
+5. Custom key encryption: Only people with the same key can decrypt
+6. Time Attribute: The cipher becomes active and expires at a specified time, preventing the message from being directly forwarded or screenshot forwarded.
